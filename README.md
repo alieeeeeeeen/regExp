@@ -1,1 +1,1 @@
-I want to rebase onto master, but hold off other.
+Test Promise.all via jasmine
