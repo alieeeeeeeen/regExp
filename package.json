@@ -1,5 +1,5 @@
 {
-  "name": "git_rebase_merge",
+  "name": "regExp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "jasmine"
   },
   "author": "",
-  "license": "UNLICENSED",
+  "license": "cc-by-4.0",
   "devDependencies": {
     "jasmine": "^3.1.0"
   }
