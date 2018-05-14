@@ -8,7 +8,7 @@ function convertThousands(string) {
   x(?y) matches x only if x is followed by y
   x(?!y) matches x only if x is not followed by y
   we nested the last one in the first one
-  \b means the first or the last of the string, or between the word and the non-word
+  \b matches position whrere *a word character* is not followed or preceded by another word-character
    hello
   |     |
   \B means ~\b
