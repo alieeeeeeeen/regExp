@@ -7,4 +7,5 @@ RegExp is one of the pillars of the front-end coding. This repo helps me to buil
 * Test Promise.all via jasmine
 
 # Reference
-[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+* [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+* [StackOverflow](https://stackoverflow.com/questions/2901102/how-to-print-a-number-with-commas-as-thousands-separators-in-javascript)
