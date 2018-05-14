@@ -6,8 +6,7 @@
   "scripts": {
     "test": "jasmine"
   },
-  "author": "",
-  "license": "cc-by-4.0",
+  "author": "alieeeeeeeen",
   "devDependencies": {
     "jasmine": "^3.1.0"
   }
